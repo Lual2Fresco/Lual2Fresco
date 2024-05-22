@@ -7,6 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/lual2fresco/post-install-config)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/lual2fresco/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Lual2Fresco/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
